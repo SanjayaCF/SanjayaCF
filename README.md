@@ -1,126 +1,94 @@
-# 🎮 SANJAYA CAHYADI FUAD — Level 28 · Data & ML Adventurer
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-**Informatics Undergraduate** · **ML Enthusiast** · **Passionate in Data Analytics**  
-_Class of 2022 — Universitas Kristen Duta Wacana_  
-Bangkit 2024 (Machine Learning Path) · Graduate · Cohort: 2
+###
 
----
+<h1 align="center">Halooo</h1>
 
-## ✨ Quick XP Board
-- **Level:** 28  
-- **XP:** ▓▓▓▓▓▓▓▓▓░ 76% — 3,800 / 5,000 XP  
-- **Playstyle:** Data-heavy, model-first, pragmatic engineering
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+</div>
 
-<table>
-  <tr>
-    <td width="120" valign="top">
-      <img src="https://github.com/SanjayaCF.png" width="110" alt="avatar" style="border-radius:12px"/>
-    </td>
-    <td valign="top">
-      ## 🧭 About Me
-      I'm **Sanjaya Cahyadi Fuad**, an Informatics student (class of 2022) passionate about practical software development, data processing, and machine learning. I graduated from **Bangkit Academy 2024** where I built end-to-end data pipelines, trained models, and delivered production-aware ML solutions.
+###
 
-      I enjoy collaborating with peers and pros who love building impactful things. I focus on clean data, reproducible experiments, and pragmatic deployments — always learning and applying new tools.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+</div>
 
----
+###
 
-## 🛠️ Stats & Skills (Skill Tree)
-**Core:** Python · TensorFlow · Pandas · NumPy · Scikit-learn  
-**Frontend / App:** JavaScript · HTML · CSS · Streamlit · JavaFX (MVVM)  
-**Mobile:** Kotlin · Jetpack Compose · Firebase  
-**Databases:** MySQL · MariaDB · MongoDB · Firebase Realtime DB  
-**CV & OCR:** OpenCV · PyTesseract · YOLO · Perspective Transform  
-**Tools & Infra:** Docker · Firebase · Git · CI/CD basics  
-**Other:** Web scraping (BeautifulSoup, Selenium), PDF parsing (PyMuPDF), Discord API
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
+</div>
 
-**Progress bars**
-- Machine Learning: ▓▓▓▓▓▓▓▓▓░ (80%)
-- Computer Vision: ▓▓▓▓▓▓▓▓░░ (70%)
-- Backend & Data Engineering: ▓▓▓▓▓▓▓░░░ (65%)
-- Mobile Development: ▓▓▓▓▓▓░░░░ (55%)
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+</div>
 
-## 🏆 Achievements & Certificates
-- **Bangkit Completion — Machine Learning Path** — Jan 2025  
-- **Dev Certified: Machine Learning with TensorFlow** — May 2025  
-- **DeepLearning.AI TensorFlow Developer Specialization** — Oct 2024  
-- **Machine Learning Specialization (DeepLearning.AI / Stanford)** — Oct 2024  
-- **Advanced Computer Vision with TensorFlow** — Nov 2024  
-- **JavaScript (Intermediate) — HackerRank** — Oct 2024
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-## 🧾 Experience & Roles (Selected)
-- **Data Structure Lab Assistant** — Universitas Kristen Duta Wacana  
-  _Sep 2025 – Present (On-site)_  
-  - Created unguided assignments and instructional videos. Mentored students and graded submissions.
+###
 
-- **Google Cloud Arcade Facilitator** — Dicoding  
-  _Jul 2025 – Sep 2025 (Remote)_  
-  - Facilitated group sessions, assessed submissions and supported learners with feedback.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SanjayaCF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaCF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- **Machine Learning Cohort (Bangkit Academy)**  
-  _Sep 2024 – Jan 2025 (Remote)_  
-  - Hands-on projects in preprocessing, TensorFlow model building, and teamwork.
+###
 
-- **Algorithm & Programming Lab Assistant** — Universitas Kristen Duta Wacana  
-  _Feb 2024 – Jun 2024 (On-site)_  
-  - Teaching assistance, grading, and mentoring.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjayaCF/SanjayaCF/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjayaCF/SanjayaCF/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanjayaCF/SanjayaCF/output/pacman-contribution-graph.svg">
+</picture>
 
-- **Organizations:**  
-  - Supervision & Statistics Commission — BPMU (Feb 2025 – Present)  
-  - Public Relations — Chinese Student Association (IMT) (Feb 2024 – Feb 2025)
-
----
-
-## 🔧 Featured Projects
-> Shortcards with tags — click the links to view each repo
-
-- 🔹 **Spare-Wallet** — `#Android #Kotlin #JetpackCompose #Firebase`  
-  An Android e-wallet simulation: secure auth, balance tracking, P2P transfers, transaction history.  
-  🔗 https://github.com/SanjayaCF/spare-wallet
-
-- 🔹 **Automating KTP Data Extraction** — `#ComputerVision #YOLO #ImageProcessing`  
-  Detects, aligns, crops, and extracts KTP fields using custom YOLO + preprocessing & perspective correction.  
-  🔗 https://github.com/Capstone-Borwita
-
-- 🔹 **Crime Monitoring Dashboard** — `#DataAnalysis #Visualization`  
-  Real-time dashboard for Yogyakarta Police Command Center — KPIs, district incident charts, interactive maps.  
-  🔗 https://github.com/SanjayaCF/dashboard-command-center · Live Demo → https://crime-monitoring-dashboard-yogyakarta.netlify.app/
-
-- 🔹 **Discord Bot for College Schedule** — `#BotDevelopment #MongoDB #PDFParsing`  
-  Parses schedule PDFs, stores to MongoDB, responds to commands via Discord.py.  
-  🔗 https://github.com/SanjayaCF/schedule-bot
-
-- 🔹 **Bicycle Rental Data Analysis** — `#DataAnalysis #Python`  
-  Exploratory analysis and actionable insights on public bike-sharing data.  
-  🔗 https://github.com/SanjayaCF/Bicycle-Rental-Data-Analysis
-
-- 🔹 **TF-IDF Query** — `#NLP #TextAnalysis`  
-  TF-IDF + Cosine Similarity for document similarity / retrieval.  
-  🔗 https://github.com/SanjayaCF/TF-IDF-Query
-
-> See all projects: https://github.com/SanjayaCF?tab=repositories
-
----
-
-## 🎖️ Badges & Mini-Achievements
-![Badge: Bangkit Grad](https://img.shields.io/badge/Bangkit-Grad-brightgreen) ![Badge: TensorFlow](https://img.shields.io/badge/TensorFlow-Developer-orange) ![Badge: CV](https://img.shields.io/badge/Computer%20Vision-Active-blue)
-
----
-
-## 📫 Contact & Links
-- GitHub: https://github.com/SanjayaCF  
-- LinkedIn: https://www.linkedin.com/in/sanjaya-cahyadi-fuad  
-- Email: sanjayacahyadifuad7@gmail.com
-
----
-
-## 🔧 Optional: Dynamic GitHub Stat Cards
-Add these under any section to show live stats (already filled with your username):
+###
