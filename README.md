@@ -4,14 +4,16 @@
 
 ###
 
-<h1 align="center">Halooo  — I'm Sanjaya Cahyadi Fuad</h1>
+<h1 align="center">Halooo  - I'm Sanjaya Cahyadi Fuad</h1>
 
 
 ###
 
 ## About Me
-**Sanjaya Cahyadi Fuad** — Informatics Undergraduate (Class of 2022) at Universitas Kristen Duta Wacana.  
+**Sanjaya Cahyadi Fuad** - Informatics Undergraduate (Class of 2022) at Universitas Kristen Duta Wacana.  
 I’m passionate about software development, data analytics, and machine learning. I enjoy building practical ML solutions, working with CV/OCR pipelines, and shipping reproducible data products.
+
+I’ve trained and deployed models as part of my projects, for example, a custom YOLO-based detector and alignment pipeline for KTP data extraction, and TensorFlow models developed during Bangkit for end-to-end ML tasks. I handle dataset collection & annotation, augmentation and preprocessing, model training and hyperparameter tuning, plus evaluation (accuracy / precision / recall / F1).
 
 - Bangkit Academy — Machine Learning Path (Graduate, Batch 2024)  
 - Strong focus on clean data, reproducible experiments, and pragmatic deployments  
@@ -97,8 +99,8 @@ I’m passionate about software development, data analytics, and machine learnin
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SanjayaCF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaCF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SanjayaCF&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayaCF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
