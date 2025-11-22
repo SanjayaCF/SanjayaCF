@@ -13,10 +13,19 @@ Bangkit 2024 (Machine Learning Path) · Graduate · Cohort: 2
 
 ---
 
-## 🧭 About Me
-I'm **Sanjaya Cahyadi Fuad**, an Informatics student (class of 2022) passionate about practical software development, data processing, and machine learning. I graduated from **Bangkit Academy 2024** where I built end-to-end data pipelines, trained models, and delivered production-aware ML solutions.
+<table>
+  <tr>
+    <td width="120" valign="top">
+      <img src="https://github.com/SanjayaCF.png" width="110" alt="avatar" style="border-radius:12px"/>
+    </td>
+    <td valign="top">
+      ## 🧭 About Me
+      I'm **Sanjaya Cahyadi Fuad**, an Informatics student (class of 2022) passionate about practical software development, data processing, and machine learning. I graduated from **Bangkit Academy 2024** where I built end-to-end data pipelines, trained models, and delivered production-aware ML solutions.
 
-I enjoy collaborating with peers and pros who love building impactful things. I focus on clean data, reproducible experiments, and pragmatic deployments — always learning and applying new tools.
+      I enjoy collaborating with peers and pros who love building impactful things. I focus on clean data, reproducible experiments, and pragmatic deployments — always learning and applying new tools.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,34 +79,34 @@ I enjoy collaborating with peers and pros who love building impactful things. I 
 
 ---
 
-## 🔧 Featured Projects (click repo links after replacing placeholders)
-> Shortcards with tags — view code by clicking the repo links (replace `SanjayaCF` below)
+## 🔧 Featured Projects
+> Shortcards with tags — click the links to view each repo
 
-### 🔹 Spare-Wallet — `#Android #Kotlin #JetpackCompose #Firebase`  
-An Android e-wallet simulation: secure auth, balance tracking, P2P transfers, transaction history.  
-`View Code → [Spare Wallet](https://github.com/SanjayaCF/spare-wallet)`
+- 🔹 **Spare-Wallet** — `#Android #Kotlin #JetpackCompose #Firebase`  
+  An Android e-wallet simulation: secure auth, balance tracking, P2P transfers, transaction history.  
+  🔗 https://github.com/SanjayaCF/spare-wallet
 
-### 🔹 Automating KTP Data Extraction — `#ComputerVision #YOLO #ImageProcessing`  
-Detects, aligns, crops, and extracts KTP fields using custom YOLO + preprocessing & perspective correction.  
-`View Code → [Automating KTP Data Extraction](https://github.com/Capstone-Borwita)`
+- 🔹 **Automating KTP Data Extraction** — `#ComputerVision #YOLO #ImageProcessing`  
+  Detects, aligns, crops, and extracts KTP fields using custom YOLO + preprocessing & perspective correction.  
+  🔗 https://github.com/Capstone-Borwita
 
-### 🔹 Crime Monitoring Dashboard — `#DataAnalysis #Visualization`  
-Real-time dashboard for Yogyakarta Police Command Center — KPIs, district incident charts, interactive maps.  
-`View Code → [Crime Monitoring Dashboard](https://github.com/SanjayaCF/dashboard-command-center)` · `Live Demo → ([link](https://crime-monitoring-dashboard-yogyakarta.netlify.app/))`
+- 🔹 **Crime Monitoring Dashboard** — `#DataAnalysis #Visualization`  
+  Real-time dashboard for Yogyakarta Police Command Center — KPIs, district incident charts, interactive maps.  
+  🔗 https://github.com/SanjayaCF/dashboard-command-center · Live Demo → https://crime-monitoring-dashboard-yogyakarta.netlify.app/
 
-### 🔹 Discord Bot for College Schedule — `#BotDevelopment #MongoDB #PDFParsing`  
-Parses schedule PDFs, stores to MongoDB, responds to commands via Discord.py.  
-`View Code → [College Schedule Bot](https://github.com/SanjayaCF/schedule-bot)`
+- 🔹 **Discord Bot for College Schedule** — `#BotDevelopment #MongoDB #PDFParsing`  
+  Parses schedule PDFs, stores to MongoDB, responds to commands via Discord.py.  
+  🔗 https://github.com/SanjayaCF/schedule-bot
 
-### 🔹 Bicycle Rental Data Analysis — `#DataAnalysis #Python`  
-Exploratory analysis and actionable insights on public bike-sharing data.  
-`View Code → [Bicycle Rental Data Analysis](https://github.com/SanjayaCF/Bicycle-Rental-Data-Analysis)`
+- 🔹 **Bicycle Rental Data Analysis** — `#DataAnalysis #Python`  
+  Exploratory analysis and actionable insights on public bike-sharing data.  
+  🔗 https://github.com/SanjayaCF/Bicycle-Rental-Data-Analysis
 
-### 🔹 TF-IDF Query — `#NLP #TextAnalysis`  
-TF-IDF + Cosine Similarity for document similarity / retrieval.  
-`View Code → [TF-IDF Query](https://github.com/SanjayaCF/TF-IDF-Query)`
+- 🔹 **TF-IDF Query** — `#NLP #TextAnalysis`  
+  TF-IDF + Cosine Similarity for document similarity / retrieval.  
+  🔗 https://github.com/SanjayaCF/TF-IDF-Query
 
-> See all projects: `https://github.com/SanjayaCF?tab=repositories`
+> See all projects: https://github.com/SanjayaCF?tab=repositories
 
 ---
 
@@ -107,15 +116,11 @@ TF-IDF + Cosine Similarity for document similarity / retrieval.
 ---
 
 ## 📫 Contact & Links
-- GitHub: `https://github.com/SanjayaCF`  
-- LinkedIn: `[LINKEDIN](https://www.linkedin.com/in/sanjaya-cahyadi-fuad)`  
-- Email: `sanjayacahyadifuad7@gmail.com`  
+- GitHub: https://github.com/SanjayaCF  
+- LinkedIn: https://www.linkedin.com/in/sanjaya-cahyadi-fuad  
+- Email: sanjayacahyadifuad7@gmail.com
 
 ---
 
-## 🧭 Quick Notes — Edit These
-- Replace `YOUR_GITHUB_USERNAME` with your GitHub handle to enable stat cards and repo links.  
-- Replace `LINKEDIN_URL` and `EMAIL` with real links.  
-- Want the README as **compact RPG**, **achievement board**, or **XP dashboard** only? Tell me which style and I’ll trim/convert it.
-
----
+## 🔧 Optional: Dynamic GitHub Stat Cards
+Add these under any section to show live stats (already filled with your username):
