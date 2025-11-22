@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Halooo 👋 — I'm Sanjaya Cahyadi Fuad</h1>
+<h1 align="center">Halooo  — I'm Sanjaya Cahyadi Fuad</h1>
 
 ###
 
@@ -78,43 +78,88 @@ I’m passionate about software development, data analytics, and machine learnin
 
 ---
 
-## Skills & Tech
-**Languages:** Python · Java · C++ · JavaScript · Kotlin  
-**ML & Data:** TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · RFM · Clustering  
-**CV & OCR:** OpenCV · PyTesseract · YOLO · Perspective Transform · Image Preprocessing  
-**Web & App:** HTML · CSS · JavaScript · Streamlit · JavaFX (MVVM) · Firebase  
-**Databases:** MySQL · MariaDB · MongoDB · Firebase Realtime DB  
-**Tools:** Docker · Git · Google Cloud · Jupyter · VSCode · PyCharm · Android Studio  
-**Automation & Parsing:** BeautifulSoup · Selenium · PyMuPDF · Discord API
+###  Skills & Technologies
+
+<table>
+  <tr>
+    <td align="center"><strong>Mobile Development</strong></td>
+    <td>Java, Kotlin, Swift, Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Android SDK, XML Views, MVVM, Navigation Components, Camera2, Koin, Dagger/Hilt, Coroutines, Kotlin Flow, RxJava</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend &amp; Database</strong></td>
+    <td>Ktor, RESTful API, Firebase (Admin SDK, Firestore, Realtime Database, FCM), PostgreSQL, MySQL, MariaDB, MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps &amp; Automation</strong></td>
+    <td>CI/CD, GitHub Actions, Docker, Nginx, MavenCentral, AWS EC2</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Architecture &amp; Testing</strong></td>
+    <td>Clean Architecture, Modularization, MVVM, MVC, Junit, Mockito, Espresso, Mockk</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Collaboration</strong></td>
+    <td>Agile Methodology, Jira, Cross-functional Team Collaboration, Code Review, Sprint Planning</td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
-- 🔹 **Spare-Wallet** — *Android (Kotlin, Jetpack Compose, Firebase)*  
-  E-wallet simulator with auth, balance tracking, P2P transfers, and transaction history.  
-  🔗 https://github.com/SanjayaCF/spare-wallet
+###  Full Tech Stack (compact view)
 
-- 🔹 **Automating KTP Data Extraction** — *Computer Vision, YOLO*  
-  Detect, align, crop, and extract fields from Indonesian ID cards using custom YOLO + preprocessing.  
-  🔗 https://github.com/Capstone-Borwita
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, Java, C++, JavaScript, Kotlin</td>
+  </tr>
+  <tr>
+    <td><strong>ML &amp; Data Science</strong></td>
+    <td>TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RFM Analysis, Clustering</td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision</strong></td>
+    <td>OpenCV, PyTesseract, YOLO, Image Preprocessing, Perspective Transformation</td>
+  </tr>
+  <tr>
+    <td><strong>Web &amp; App Dev</strong></td>
+    <td>HTML, CSS, JavaScript, Streamlit, JavaFX (MVVM), Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>MySQL, MongoDB, Firebase Realtime Database, MariaDB</td>
+  </tr>
+  <tr>
+    <td><strong>APIs &amp; Integrations</strong></td>
+    <td>Discord API, PyMuPDF (PDF parsing)</td>
+  </tr>
+  <tr>
+    <td><strong>Web Scraping &amp; Automation</strong></td>
+    <td>BeautifulSoup, Selenium</td>
+  </tr>
+</table>
 
-- 🔹 **Crime Monitoring Dashboard** — *Data Analysis & Visualization*  
-  Real-time dashboard for Yogyakarta Police Command Center with KPIs, charts, and interactive maps.  
-  🔗 https://github.com/SanjayaCF/dashboard-command-center · Live Demo → https://crime-monitoring-dashboard-yogyakarta.netlify.app/
+---
 
-- 🔹 **Discord Bot for College Schedule** — *PDF parsing → MongoDB → Discord.py*  
-  Parses schedule PDFs, stores schedules in MongoDB, and returns results via Discord commands.  
-  🔗 https://github.com/SanjayaCF/schedule-bot
+### ⚙️ Tools & Platforms
 
-- 🔹 **Bicycle Rental Data Analysis** — *Exploratory Data Analysis*  
-  Insights on usage patterns, peak hours, and seasonality.  
-  🔗 https://github.com/SanjayaCF/Bicycle-Rental-Data-Analysis
-
-- 🔹 **TF-IDF Query** — *NLP / Text Similarity*  
-  TF-IDF + Cosine Similarity for document retrieval and similarity scoring.  
-  🔗 https://github.com/SanjayaCF/TF-IDF-Query
-
-> See all: https://github.com/SanjayaCF?tab=repositories
+<table>
+  <tr>
+    <td><strong>Version Control &amp; Collaboration</strong></td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>IDEs &amp; Editors</strong></td>
+    <td>Visual Studio Code, PyCharm, Android Studio, NetBeans, Sublime Text</td>
+  </tr>
+  <tr>
+    <td><strong>Business Intelligence &amp; Visualization</strong></td>
+    <td>Power BI, Google Looker</td>
+  </tr>
+  <tr>
+    <td><strong>Notebooks &amp; Cloud Labs</strong></td>
+    <td>Jupyter Notebook, Google Colab</td>
+  </tr>
+</table>
 
 ---
 
@@ -150,3 +195,4 @@ I’m passionate about software development, data analytics, and machine learnin
 </picture>
 
 ---
+
