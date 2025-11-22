@@ -6,47 +6,6 @@
 
 <h1 align="center">Halooo  — I'm Sanjaya Cahyadi Fuad</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
-</div>
 
 ###
 
@@ -78,34 +37,8 @@ I’m passionate about software development, data analytics, and machine learnin
 
 ---
 
-###  Skills & Technologies
 
-<table>
-  <tr>
-    <td align="center"><strong>Mobile Development</strong></td>
-    <td>Java, Kotlin, Swift, Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Android SDK, XML Views, MVVM, Navigation Components, Camera2, Koin, Dagger/Hilt, Coroutines, Kotlin Flow, RxJava</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend &amp; Database</strong></td>
-    <td>Ktor, RESTful API, Firebase (Admin SDK, Firestore, Realtime Database, FCM), PostgreSQL, MySQL, MariaDB, MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>DevOps &amp; Automation</strong></td>
-    <td>CI/CD, GitHub Actions, Docker, Nginx, MavenCentral, AWS EC2</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Architecture &amp; Testing</strong></td>
-    <td>Clean Architecture, Modularization, MVVM, MVC, Junit, Mockito, Espresso, Mockk</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Collaboration</strong></td>
-    <td>Agile Methodology, Jira, Cross-functional Team Collaboration, Code Review, Sprint Planning</td>
-  </tr>
-</table>
-
----
-
-###  Full Tech Stack (compact view)
+###  Full Tech Stack
 
 <table>
   <tr>
@@ -140,7 +73,7 @@ I’m passionate about software development, data analytics, and machine learnin
 
 ---
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <table>
   <tr>
