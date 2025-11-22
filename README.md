@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="center">Halooo</h1>
+<h1 align="center">Halooo 👋 — I'm Sanjaya Cahyadi Fuad</h1>
 
 ###
 
@@ -68,12 +68,70 @@
 
 ###
 
+## About Me
+**Sanjaya Cahyadi Fuad** — Informatics Undergraduate (Class of 2022) at Universitas Kristen Duta Wacana.  
+I’m passionate about software development, data analytics, and machine learning. I enjoy building practical ML solutions, working with CV/OCR pipelines, and shipping reproducible data products.
+
+- Bangkit Academy — Machine Learning Path (Graduate, Batch 2024)  
+- Strong focus on clean data, reproducible experiments, and pragmatic deployments  
+- I like collaborating in cross-disciplinary teams and mentoring peers
+
+---
+
+## Skills & Tech
+**Languages:** Python · Java · C++ · JavaScript · Kotlin  
+**ML & Data:** TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · RFM · Clustering  
+**CV & OCR:** OpenCV · PyTesseract · YOLO · Perspective Transform · Image Preprocessing  
+**Web & App:** HTML · CSS · JavaScript · Streamlit · JavaFX (MVVM) · Firebase  
+**Databases:** MySQL · MariaDB · MongoDB · Firebase Realtime DB  
+**Tools:** Docker · Git · Google Cloud · Jupyter · VSCode · PyCharm · Android Studio  
+**Automation & Parsing:** BeautifulSoup · Selenium · PyMuPDF · Discord API
+
+---
+
+## Featured Projects
+- 🔹 **Spare-Wallet** — *Android (Kotlin, Jetpack Compose, Firebase)*  
+  E-wallet simulator with auth, balance tracking, P2P transfers, and transaction history.  
+  🔗 https://github.com/SanjayaCF/spare-wallet
+
+- 🔹 **Automating KTP Data Extraction** — *Computer Vision, YOLO*  
+  Detect, align, crop, and extract fields from Indonesian ID cards using custom YOLO + preprocessing.  
+  🔗 https://github.com/Capstone-Borwita
+
+- 🔹 **Crime Monitoring Dashboard** — *Data Analysis & Visualization*  
+  Real-time dashboard for Yogyakarta Police Command Center with KPIs, charts, and interactive maps.  
+  🔗 https://github.com/SanjayaCF/dashboard-command-center · Live Demo → https://crime-monitoring-dashboard-yogyakarta.netlify.app/
+
+- 🔹 **Discord Bot for College Schedule** — *PDF parsing → MongoDB → Discord.py*  
+  Parses schedule PDFs, stores schedules in MongoDB, and returns results via Discord commands.  
+  🔗 https://github.com/SanjayaCF/schedule-bot
+
+- 🔹 **Bicycle Rental Data Analysis** — *Exploratory Data Analysis*  
+  Insights on usage patterns, peak hours, and seasonality.  
+  🔗 https://github.com/SanjayaCF/Bicycle-Rental-Data-Analysis
+
+- 🔹 **TF-IDF Query** — *NLP / Text Similarity*  
+  TF-IDF + Cosine Similarity for document retrieval and similarity scoring.  
+  🔗 https://github.com/SanjayaCF/TF-IDF-Query
+
+> See all: https://github.com/SanjayaCF?tab=repositories
+
+---
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/sanjaya-cahyadi-fuad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sanjayacahyadifuad7@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="Discord" />
+  <a href="https://medium.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="28" alt="Medium" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="Instagram" />
+  </a>
 </div>
 
 ###
@@ -91,4 +149,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SanjayaCF/SanjayaCF/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
