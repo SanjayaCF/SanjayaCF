@@ -10,7 +10,7 @@
 ###
 
 ## About Me
-**Sanjaya Cahyadi Fuad** - Informatics Undergraduate (Class of 2022) at Universitas Kristen Duta Wacana.  
+**Sanjaya Cahyadi Fuad** - Informatics Undergraduate (Class of 2026) at Universitas Kristen Duta Wacana.  
 I’m passionate about software development, data analytics, and machine learning. I enjoy building practical ML solutions, working with CV/OCR pipelines, and shipping reproducible data products.
 
 I’ve trained and deployed models as part of my projects, for example, a custom YOLO-based detector and alignment pipeline for KTP data extraction, and TensorFlow models developed during Bangkit for end-to-end ML tasks. I handle dataset collection & annotation, augmentation and preprocessing, model training and hyperparameter tuning, plus evaluation (accuracy / precision / recall / F1).
